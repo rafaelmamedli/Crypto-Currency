@@ -1,3 +1,4 @@
 # Crypto_Currency_Colorful
 Retrofit,JavaRx,RecyclerView,Colorful and Clickable Rows
-![image](https://user-images.githubusercontent.com/106253655/208322340-3f95ace0-3069-48fe-8836-b04e59fb0a9d.png)
+![image](https://user-images.githubusercontent.com/106253655/208541877-28bb318f-d0cd-4eb7-a326-3c3a08e99e29.png)
+
